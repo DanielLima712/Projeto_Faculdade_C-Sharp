@@ -27,8 +27,8 @@ namespace neuro_fisio_prototype
             public string sobrenome { get; set; }
             public string crefito { get; set; }
             public string email { get; set; }
-            public int cpf { get; set; }
-            public int telefone { get; set; }
+            public double cpf { get; set; }
+            public double telefone { get; set; }
             public int id { get; set; }
             public bool ativo { get; set; }
 
@@ -76,12 +76,12 @@ namespace neuro_fisio_prototype
 
         public void atribuirValoresStructFisio()
         {
-            int cpf, telefone;
+            double cpf, telefone;
             string nome, sobrenome, crefito, email;
 
             // Atribuição dos valores para as variáveis, para inserir no objeto fisioterapeuta;
-            cpf = int.Parse(TxtBx_CpfFisio.Text);
-            telefone = int.Parse(TxtBx_TelefoneFisio.Text);
+            cpf = double.Parse(TxtBx_CpfFisio.Text);
+            telefone = double.Parse(TxtBx_TelefoneFisio.Text);
             nome = TxtBx_NomeFisio.Text;
             sobrenome = TxtBx_SobrenomeFisio.Text;
             crefito = TxtBx_CrefitoFisio.Text;
