@@ -17,9 +17,21 @@ namespace neuro_fisio_prototype
             InitializeComponent();
         }
 
-        Cadastro_Fisio Cadastro_fisio = new Cadastro_Fisio();
+        Cadastro_Fisio cadastro_fisio = new Cadastro_Fisio();
 
         private void btnCadastraFisio_Click(object sender, EventArgs e)
+        {
+
+                cadastro_fisio.ShowDialog();
+
+        }
+
+        private void btnCadastraPaciente_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAgendaHorario_Click(object sender, EventArgs e)
         {
 
         }

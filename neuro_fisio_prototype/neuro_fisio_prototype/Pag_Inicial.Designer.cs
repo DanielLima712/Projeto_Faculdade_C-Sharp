@@ -51,6 +51,7 @@
             this.btnAgendaHorario.TabIndex = 1;
             this.btnAgendaHorario.Text = "Agendar Horário";
             this.btnAgendaHorario.UseVisualStyleBackColor = true;
+            this.btnAgendaHorario.Click += new System.EventHandler(this.btnAgendaHorario_Click);
             // 
             // btnCadastraPaciente
             // 
@@ -60,6 +61,7 @@
             this.btnCadastraPaciente.TabIndex = 2;
             this.btnCadastraPaciente.Text = "Cadastrar Paciente";
             this.btnCadastraPaciente.UseVisualStyleBackColor = true;
+            this.btnCadastraPaciente.Click += new System.EventHandler(this.btnCadastraPaciente_Click);
             // 
             // Pag_Inicial
             // 
@@ -70,7 +72,7 @@
             this.Controls.Add(this.btnAgendaHorario);
             this.Controls.Add(this.btnCadastraFisio);
             this.Name = "Pag_Inicial";
-            this.Text = "Form1";
+            this.Text = "Página Inicial";
             this.ResumeLayout(false);
 
         }

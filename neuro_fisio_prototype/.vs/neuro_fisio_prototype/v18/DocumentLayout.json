@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7431FD-B726-47EA-B9B3-6DF0F7476277}|neuro_fisio_prototype\\neuro_fisio_prototype.csproj|d:\\visualstudio\\softwarefisio\\projeto_faculdade_c-sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\cadastro_fisio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7431FD-B726-47EA-B9B3-6DF0F7476277}|neuro_fisio_prototype\\neuro_fisio_prototype.csproj|solutionrelative:neuro_fisio_prototype\\cadastro_fisio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7431FD-B726-47EA-B9B3-6DF0F7476277}|neuro_fisio_prototype\\neuro_fisio_prototype.csproj|d:\\visualstudio\\softwarefisio\\projeto_faculdade_c-sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\pag_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7431FD-B726-47EA-B9B3-6DF0F7476277}|neuro_fisio_prototype\\neuro_fisio_prototype.csproj|solutionrelative:neuro_fisio_prototype\\pag_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7431FD-B726-47EA-B9B3-6DF0F7476277}|neuro_fisio_prototype\\neuro_fisio_prototype.csproj|D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\cadastro_fisio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF7431FD-B726-47EA-B9B3-6DF0F7476277}|neuro_fisio_prototype\\neuro_fisio_prototype.csproj|solutionrelative:neuro_fisio_prototype\\cadastro_fisio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7431FD-B726-47EA-B9B3-6DF0F7476277}|neuro_fisio_prototype\\neuro_fisio_prototype.csproj|D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\pag_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF7431FD-B726-47EA-B9B3-6DF0F7476277}|neuro_fisio_prototype\\neuro_fisio_prototype.csproj|solutionrelative:neuro_fisio_prototype\\pag_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pag_Inicial.cs [Design]",
+              "DocumentMoniker": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\Pag_Inicial.cs",
+              "RelativeDocumentMoniker": "neuro_fisio_prototype\\Pag_Inicial.cs",
+              "ToolTip": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\Pag_Inicial.cs [Design]",
+              "RelativeToolTip": "neuro_fisio_prototype\\Pag_Inicial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:22:28.072Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pag_Inicial.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\Pag_Inicial.cs",
+              "RelativeDocumentMoniker": "neuro_fisio_prototype\\Pag_Inicial.cs",
+              "ToolTip": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\Pag_Inicial.cs",
+              "RelativeToolTip": "neuro_fisio_prototype\\Pag_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:22:27.759Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro_Fisio.cs [Design]",
+              "DocumentMoniker": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\Cadastro_Fisio.cs",
+              "RelativeDocumentMoniker": "neuro_fisio_prototype\\Cadastro_Fisio.cs",
+              "ToolTip": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\Cadastro_Fisio.cs [Design]",
+              "RelativeToolTip": "neuro_fisio_prototype\\Cadastro_Fisio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:22:28.071Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastro_Fisio.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\Cadastro_Fisio.cs",
+              "RelativeDocumentMoniker": "neuro_fisio_prototype\\Cadastro_Fisio.cs",
+              "ToolTip": "D:\\VisualStudio\\SoftwareFisio\\Projeto_Faculdade_C-Sharp\\neuro_fisio_prototype\\neuro_fisio_prototype\\Cadastro_Fisio.cs",
+              "RelativeToolTip": "neuro_fisio_prototype\\Cadastro_Fisio.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T02:19:58.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
